@@ -1,1 +1,1 @@
-this script is meant to draw a perfect circle. designed for https://neal.fun/perfect-circle/ (or any other circle needs)
+this script is meant to draw a perfect circle. designed for https://neal.fun/perfect-circle/ (or any other circular needs)
